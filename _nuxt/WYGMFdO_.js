@@ -1,0 +1,1 @@
+import{_ as s,t,a3 as o,s as a}from"./DQ5f99-O.js";const c={},l={class:"flex flex-col gap-6 w-full"};function r(e,n){return a(),t("div",l,[o(e.$slots,"default")])}const _=s(c,[["render",r]]);export{_ as default};
